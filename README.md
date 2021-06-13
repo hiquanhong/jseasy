@@ -51,6 +51,6 @@ honsteyly to say , the alert () fundction is not commonly  used in js ,but it is
 ## using js to handle html content is a very powerful feature
       ''' kotlin 
       x= document .getElementById("demo");     //find the element
-      x.innerHTML="HELLO JS";    //change the content.
+      x.innerHTML="HELLO JS";     //change the content.
    
 
